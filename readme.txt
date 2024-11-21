@@ -19,3 +19,5 @@ Skrypt dzieli się na poszczególne segmenty, opiszę go etapami.
 5. Funkcja save_to_html(content, output_file) - tekst generowany przez OpenAi jest zapisywany w pliku html. Dodaję od siebie nagłówek po czym wkleja zawartość z OpenAI
 6. Funkcja main() - ustalenie ścieżki do pliku z artykułem, odczytanie artykułu (wywołanie funkcji), prompt do OpenAI(przekazany do funkcji z pkt.4), przetworzony artykuł zapisuje do html(wywołanie funkcji), jak się nie powiedzie wyświetla błąd.
 7. Uruchomienie skryptu(funkcji main())
+
+Zadanie dodatkowe również znajduje się w tym folderze.
